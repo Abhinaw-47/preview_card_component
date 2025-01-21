@@ -56,7 +56,7 @@ p{
 span{
     color:  hsl(277, 64%, 61%);
 }
-@media (min-width: 375px){
+@media (min-width: 375px ) and (max-width:1440px){
     .container{
         flex-direction: column-reverse;
       
